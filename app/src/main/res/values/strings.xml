@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator for Agg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Shop name/Man name</string>
+    <string name="quantity">Quantity</string>
+    <string name="retailrate">Retail Rate</string>
+    <string name="wholesalerate">wholesale rate</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="save">Save</string>
+    <string name="nametxt">Name :</string>
+    <string name="quantity_sh">Quantity :</string>
+    <string name="retail_rate">Retail Rate :</string>
+    <string name="total">Total :</string>
+    <string name="profit">Profit :</string>
+    <string name="tk">Tk</string>
+    <string name="change_your_name">Change your name</string>
+    <string name="change_wholesale_rate">change wholesale rate</string>
+    <string name="change_rate">change Rate</string>
+    <string name="change_quantity">change quantity</string>
+    <string name="change_your_profile">Change Your Profile</string>
+</resources>
